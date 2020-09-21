@@ -1,14 +1,21 @@
-.App {
-  text-align: center;
-  
-}
-
 body {
-  background-color: #282c34;
+  background-color: #282c34; 
+  text-align: center;
+  background-image: url("images/background-shatter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-p {
+h1 {
   font-size: 60px;
+  color: #e8e8e8;
 }
+
+
+#coutdown {
+  font-size: 60px;
+  color: #e8e8e8;
+}
+
 
 
